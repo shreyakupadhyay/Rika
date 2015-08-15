@@ -1,5 +1,5 @@
 # Rika
-New Social Networking Concept
+Searching files concept
 ## Installation
 You have to install eyeD3 library of python using:
 	sudo apt-get install eyeD3
