@@ -1,5 +1,5 @@
 # Rika
-Searching files concept
+Searching .mp3 files concept
 ## Installation
 You have to install eyeD3 library of python using:
 	sudo apt-get install eyeD3
