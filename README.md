@@ -1,5 +1,5 @@
 # Rika
-Searching .mp3 files concept
+Is is a python script which searches .mp3 files in your system. And this can be extented to any types of files. 
 ## Installation
 You have to install eyeD3 library of python using:
 	sudo apt-get install eyeD3
